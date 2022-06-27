@@ -1,0 +1,2 @@
+{"key":"mjxq_spider","name":"美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
+"spider":"https://zzx1113.github.io/mi/0627.jar"
